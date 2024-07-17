@@ -305,6 +305,10 @@ By following these steps, you can build and run an AI-powered chatbot using Lang
 
 Watch the full tutorial video here: [Build a RAG Based LLM App in 20 Minutes! | Full Langflow Tutoria](https://www.youtube.com/watch?v=rz40ukZ3krQ)
 
+> [!IMPORTANT]
+
+> Key information users need to know to achieve their goal.
+
 ## FootNotes
 
 #### Here is a simple footnote[^1].
