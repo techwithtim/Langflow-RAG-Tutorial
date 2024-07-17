@@ -56,16 +56,11 @@ In this section, you'll see a demo of the final AI application you'll be buildin
 
 * **Command to check Python version:**
 
-'''
-
 python --version
 
-'''
+ or
 
-  or
-
-''' python3 --version
-**
+python3 --version
 
 **If Python is not installed:**
 
