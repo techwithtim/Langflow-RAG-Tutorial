@@ -18,7 +18,9 @@ We'll use [LangFlow](https://docs.langflow.org/), a visual platform that makes b
 
 ## About Me
 
-**Dive into the world of programming, software engineering, machine learning, and all things tech through my channel! I place a strong focus on Python and JavaScript, offering you an array of free resources to kickstart your coding journey and make your mark in the software engineering and programming fields. My mission is to deliver the finest quality tech and programming tutorials online, ensuring you receive top-notch education right at your fingertips.**Links
+**Dive into the world of programming, software engineering, machine learning, and all things tech through my channel! I place a strong focus on Python and JavaScript, offering you an array of free resources to kickstart your coding journey and make your mark in the software engineering and programming fields. My mission is to deliver the finest quality tech and programming tutorials online, ensuring you receive top-notch education right at your fingertips.**
+
+Links
 
 ![img](https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQEGz5rjOTdNs_v5Q3WzIWapMzTH1LFt-LsA81qWyw05iF_pPReJEzrAEn-R1SfiuINw2SBuyu3rxzygoZzXQqsidHn6rjtaUB-qG0Qu9RVMLtYFhs)**Become a Developer**[techwithtim.net/dev](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa29ENVE4UnVlRVlzdHZQSFllZ3lzN1U5OXNTZ3xBQ3Jtc0tudXlsLUh1S00xVG50ckhpTVpFM09JTVhvREZ5WlVWcnhvYjBCYUFRZ3ZxX080M0VUM2VjZmNGMDJWdlpkQk1SVmFBT2NxWnk5YUZWV2hWUFczVVQxMnFvTVdSR3VhN3VnVE9taTBLQ1dSSVRJQVRJVQ&q=https%3A%2F%2Ftechwithtim.net%2Fdev)
 
