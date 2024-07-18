@@ -6,9 +6,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/downloads/)
 [![LangFlow Version](https://img.shields.io/badge/LangFlow-0.5.0-green)](https://github.com/langflow-ai/langflow)
 
-https://img.shields.io/github/stars/yourusername/Langflow-RAG-Tutorial?style=social
-
-https://github.com/techwithtim/Langflow-RAG-TutorialBuilding an AI-Powered Chatbot Using LangFlow: A Step-by-Step Guide
 
 [![Build a RAG Based LLM App in 20 Minutes! | Full Langflow Tutorial](https://img.youtube.com/vi/rz40ukZ3krQ/0.jpg)](https://www.youtube.com/watch?v=rz40ukZ3krQ)
 
