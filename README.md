@@ -189,9 +189,9 @@ langflow run
 
 ```markdown
 Hey, answer the user's question based on the following context:
-Context: {context}
-Question: {question}
-History: {history}
+The context is this: {context}
+And this is the message History: {history}
+The users question is this: {question}
 ```
 
 ### Add chat memory:
@@ -226,15 +226,28 @@ History: {history}
 - **Steps:**
   1. Go to API keys in your OpenAI dashboard.
   2. Click "Create new secret key."
-  3. Copy the generated key.
+  3. Name the key to LangFlow-API (Makes things easier if you use more than one OpenAI API key)
+  4. Give it access to everything.
+  5. Copy the generated key.
+
+[Screenshot of OpenAI API URL and Wherer the API Key is found.]
+
+![1721288334907](image/README/1721288334907.png)
 
 ### Connect to OpenAI:
 
 1. **Add an "OpenAI" component.**
-2. **Paste your OpenAI API key in the appropriate field.**
-3. **Connect the prompt to the OpenAI component.**
+2. **Name it OpenAI_Key_New.**
+3. **Paste your OpenAI API key in the Value field (Box).**
+4. **Make the 'Type' Credential.**
+5. **Click Save Variable.**
+6. **Drag the Chat Output from the menu and drage it to the left of OpenAI and place it beside.**
+7. **Drag and link the connection from OpenAI 'text' to the Chat Output 'Message'.**
+8. **Connect the prompt to the OpenAI component.**
 
 [IMAGE PLACEHOLDER: Screenshot of OpenAI integration in LangFlow]
+
+![1721289365563](image/README/1721289365563.png)
 
 ### Watch the OpenAI Integration
 
