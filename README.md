@@ -10,9 +10,9 @@
 
 [![Build a RAG Based LLM App in 20 Minutes! | Full Langflow Tutorial](https://img.youtube.com/vi/rz40ukZ3krQ/0.jpg)](https://www.youtube.com/watch?v=rz40ukZ3krQ)
 
-![1721260803719](image/README/1721260803719.png)
+[![Tech With Tim](https://yt3.googleusercontent.com/ytc/AIdro_k15oXl74WcnpdL-uVBv6IHBgAfXEEnpUiS-IoEyV1auyY=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@TechWithTim)
 
-This tutorial guides you through creating an AI application that utilizes [Retrieval-Augmented Generation (RAG)](https://www.pinecone.io/learn/retrieval-augmented-generation/) without writing any code. 
+This tutorial guides you through creating an AI application that utilizes [Retrieval-Augmented Generation (RAG)](https://www.pinecone.io/learn/retrieval-augmented-generation/) without writing any code.
 
 We'll use [LangFlow](https://docs.langflow.org/), a visual platform that makes building AI applications intuitive and straightforward.
 
