@@ -205,7 +205,9 @@ History: {history}
 2. **Connect the output of the OpenAI component to the chat output.**
 3. **Set the sender name to "AI."**
 
-[IMAGE PLACEHOLDER: Screenshot of the complete basic chatbot flow]
+[Screenshot of the complete basic chatbot flow]
+
+![1721287869543](image/README/1721287869543.png)
 
 ### Watch the Basic Chatbot Build
 
