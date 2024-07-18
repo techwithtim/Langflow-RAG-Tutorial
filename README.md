@@ -10,7 +10,25 @@
 
 [![Build a RAG Based LLM App in 20 Minutes! | Full Langflow Tutorial](https://img.youtube.com/vi/rz40ukZ3krQ/0.jpg)](https://www.youtube.com/watch?v=rz40ukZ3krQ)
 
-This tutorial guides you through creating an AI application that utilizes [Retrieval-Augmented Generation (RAG)](https://www.pinecone.io/learn/retrieval-augmented-generation/) without writing any code. We'll use [LangFlow](https://docs.langflow.org/), a visual platform that makes building AI applications intuitive and straightforward.
+![1721260803719](image/README/1721260803719.png)
+
+This tutorial guides you through creating an AI application that utilizes [Retrieval-Augmented Generation (RAG)](https://www.pinecone.io/learn/retrieval-augmented-generation/) without writing any code. 
+
+We'll use [LangFlow](https://docs.langflow.org/), a visual platform that makes building AI applications intuitive and straightforward.
+
+## About Me
+
+**Dive into the world of programming, software engineering, machine learning, and all things tech through my channel! I place a strong focus on Python and JavaScript, offering you an array of free resources to kickstart your coding journey and make your mark in the software engineering and programming fields. My mission is to deliver the finest quality tech and programming tutorials online, ensuring you receive top-notch education right at your fingertips.**Links
+
+![img](https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQEGz5rjOTdNs_v5Q3WzIWapMzTH1LFt-LsA81qWyw05iF_pPReJEzrAEn-R1SfiuINw2SBuyu3rxzygoZzXQqsidHn6rjtaUB-qG0Qu9RVMLtYFhs)**Become a Developer**[techwithtim.net/dev](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa29ENVE4UnVlRVlzdHZQSFllZ3lzN1U5OXNTZ3xBQ3Jtc0tudXlsLUh1S00xVG50ckhpTVpFM09JTVhvREZ5WlVWcnhvYjBCYUFRZ3ZxX080M0VUM2VjZmNGMDJWdlpkQk1SVmFBT2NxWnk5YUZWV2hWUFczVVQxMnFvTVdSR3VhN3VnVE9taTBLQ1dSSVRJQVRJVQ&q=https%3A%2F%2Ftechwithtim.net%2Fdev)
+
+![](https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcTI-5PGHmIaNROji4Au1BCHWlIYYuBV-S5o10vNQOpO8bKYe_6qoBk4-ZuXaoJFuMvh4TIqxnwOPvBj23km7XY2pAb98oE7qC3Akz3TL6SOymq5kX9Qzg)**Instagram**[instagram.com/tech_with_tim](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa1EyMThsR3cyQVhFRWpCb3FlMkk4UGxLUGxpUXxBQ3Jtc0tsaTJaT0g3OGR3NHBScS05dU5aODRYeUZ2QkttZjFrQVhRRzloTzlKejhtTDgyb3lPSC02TTQyTTZUSzhfQ3RKbzlPNmhqMWpvRDZqcmFfRmtOdG5zYXhxX0hyT1YtTDZCVkpZbDBGNnQxUC1ndlVERQ&q=https%3A%2F%2Fwww.instagram.com%2Ftech_with_tim%2F)
+
+![](https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcQEGz5rjOTdNs_v5Q3WzIWapMzTH1LFt-LsA81qWyw05iF_pPReJEzrAEn-R1SfiuINw2SBuyu3rxzygoZzXQqsidHn6rjtaUB-qG0Qu9RVMLtYFhs)**Website**[techwithtim.net](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa21ZZVdCOXZRSmlDeHZlSk9xUTRCSzhFOWdCQXxBQ3Jtc0tuUjRBekp2ZlM1MzFTOEVQRVp4enhoSDEyQk1Wc3ZyaVlxWlhzWHBuZTFKVVZPenF4VVA3ZEk0U3RYUlB4MEFLU1NlVlowa25PTGNWaXQtTTh6Y3RUMHZLOGZTSGVydmU0RnM0Zy1OTlhIdFc1YVAtWQ&q=https%3A%2F%2Ftechwithtim.net)
+
+![](https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcTW8Eht4ooW3CRBzkms3c5X_Ec50J2XvH7cnm-htH2yfaiyjEn_ry_v41pvoPdfAhwDKkAxoTmRtQ93wrX-B672Q444vz8AN-2BlSUnWg_J)**Discord**[discord.gg/pr2k55t](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqa3pfWDY5c1d2aFdYS3dIM1M0dlIxa1ZPUFBNd3xBQ3Jtc0trRk82cXBaZnU2VHEzb3dWNVBZRzdhXzh6T3gzT0lJZEQ3VHZTVVo2c0prbGYwVi1Obldqak9vT2x6bm9lVGtOTTZaTUFmaXQzbVMwUlcwMjNuTVV3dmZnTkRTaHB3ZXdERDRCcllESmIwdnhaaUQ1SQ&q=https%3A%2F%2Fdiscord.gg%2Fpr2k55t)
+
+![](https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn:ANd9GcT3siRwkYV0yRj-xMKfWr5a4owVUTWVEfHcA2IqqkYk1jOEZG6VR5j7hS6M1SAFDiHj-FAckilaVk26SQIwNWkIiJFNydpPKej965VlPVn2)**GitHub**[github.com/techwithtim](https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbkZGNlpjZ01jaFhYQmw4WFFBT0tHTXRyRjVVUXxBQ3Jtc0tuS1hnWEJwZlRBQTdFczhPNlFlTkJxTkpvNjZHaWJlak55SDFyUXpONnZQSTRpSTZSdV9iSG5sd29oU2w1OUtUNktMdWFERTZjMGMxbDJGcUp1SW9SMndKT2pTSGZLaElKdUFMWDNkMlREQmxhWGNxVQ&q=https%3A%2F%2Fgithub.com%2Ftechwithtim)
 
 <details>
 <summary>Table of Contents</summary>
@@ -405,12 +423,24 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 <summary>Version History</summary>
 
 - **v1.0.0** (2024-07-17): Initial release
-  - Basic chatbot setup
-  - OpenAI integration
-  - RAG implementation
+  - Basic chatbot setup.
+  - OpenAI integration.
+  - RAG implementation.
+  - Added TimeStamps.
+  - Added DropDown Meun in OverView.
 - **v1.1.0** (2024-07-18):
-  - Added troubleshooting section
-  - Improved documentation
+  - Added troubleshooting section.
+  - Improved documentation.
+  - Added Introduction.
+  - Added Quick Start
+  - Added YouTube Video to Click on.
+  - Added Related Projects.
+  - Added Change Log.
+  - Added Contributing.
+  - Added FAQ.
+  - Added Overview with TimeStamps.
+  - Added Best Practices and Optimization
+  - Added Troubleshooting
 
 </details>
 
