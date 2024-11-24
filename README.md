@@ -115,7 +115,7 @@ In this section, you'll see a demo of the final AI application you'll be buildin
 
 ### Install LangFlow using pip.
 
-### Ensure you have [Python 3.10](https://www.python.org/downloads/) or above installed.
+### Ensure you have [Python <3.13, >=3.10](https://www.python.org/downloads/) installed.
 
 - **Command to check Python version:**
 
